@@ -1,5 +1,5 @@
 {
-    "name": "cache/adapter-common",
+    "name": "bunkerdb/adapter-common",
     "description": "Common classes for PSR-6 adapters",
     "license": "MIT",
     "type": "library",
